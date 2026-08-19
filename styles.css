@@ -111,7 +111,7 @@ body.mobile-page-body {
     margin-bottom: 1.25rem;
 }
 
-/* Perfectly Centered Menu Cards */
+/* 3-Part Menu Cards (Icon on left, Centered title in middle, Action badge on right) */
 .menu-list {
     display: flex;
     flex-direction: column;
@@ -122,9 +122,9 @@ body.mobile-page-body {
 .menu-item-card {
     display: flex;
     align-items: center;
-    justify-content: center; /* PERFECTLY CENTERED ICON & TEXT TOGETHER */
-    gap: 0.85rem;
-    padding: 1.15rem 1.2rem;
+    justify-content: space-between;
+    gap: 0.5rem;
+    padding: 1.1rem 0.9rem;
     border-radius: 20px;
     text-decoration: none;
     color: #ffffff;
@@ -155,11 +155,28 @@ body.mobile-page-body {
     fill: #ffffff;
 }
 
+.item-details {
+    flex: 1;
+    text-align: center; /* Title centered right in the middle space */
+    padding: 0 0.2rem;
+}
+
 .item-title {
     font-weight: 800;
-    font-size: 1.2rem;
+    font-size: 1.18rem;
     line-height: 1;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.3px;
+    display: block;
+}
+
+.item-action {
+    font-size: 0.78rem;
+    font-weight: 700;
+    background: rgba(255,255,255,0.22);
+    padding: 0.35rem 0.6rem;
+    border-radius: 20px;
+    white-space: nowrap;
+    flex-shrink: 0;
 }
 
 /* Platform Gradients */

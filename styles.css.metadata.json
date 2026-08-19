@@ -1,5 +1,5 @@
 {
-  "summary": "Updated styles.css with flex justify-content: center to align icon and title right in the middle of each button.",
-  "updatedAt": "2026-08-19T16:04:58.002578500Z",
+  "summary": "Updated styles.css so item-details centers the title in the middle space between left icon and right action badge.",
+  "updatedAt": "2026-08-19T16:07:31.150973700Z",
   "userFacing": true
 }
