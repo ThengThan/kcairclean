@@ -1,5 +1,5 @@
 {
-  "summary": "Updated index.html to be completely minimal. Removed all extra texts (Video Channel, Chat & Channel, Official Page) and added cache-buster to ensure mobile browsers update instantly.",
-  "updatedAt": "2026-08-19T16:00:07.062613700Z",
+  "summary": "Removed small URL subtext lines (t.me, youtube.com, facebook.com) from under the titles in index.html for maximum minimalism.",
+  "updatedAt": "2026-08-19T16:01:24.165318100Z",
   "userFacing": true
 }
