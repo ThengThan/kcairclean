@@ -1,5 +1,5 @@
 {
-  "summary": "Updated button labels in index.html to be ultra-clean: Telegram, YouTube, Facebook.",
-  "updatedAt": "2026-08-19T15:54:55.969747500Z",
+  "summary": "Updated index.html to be completely minimal. Removed all extra texts (Video Channel, Chat & Channel, Official Page) and added cache-buster to ensure mobile browsers update instantly.",
+  "updatedAt": "2026-08-19T16:00:07.062613700Z",
   "userFacing": true
 }
