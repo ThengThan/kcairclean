@@ -1,5 +1,5 @@
 {
-  "summary": "Updated brand name formatting to KC AirClean in index.html.",
-  "updatedAt": "2026-08-19T15:21:20.766176300Z",
+  "summary": "Fixed Khmer typography rendering issue by replacing invalid diacritic sequence (សុី) with standard Unicode Khmer characters (ស៊ី). Fixed 'ខេស៊ី' and 'ម៉ាស៊ីនត្រជាក់'.",
+  "updatedAt": "2026-08-19T15:26:50.980599500Z",
   "userFacing": true
 }
