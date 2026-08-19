@@ -149,9 +149,19 @@ body.mobile-page-body {
     flex-shrink: 0;
 }
 
-.item-icon {
-    font-size: 1.5rem;
+.item-icon-box {
+    width: 32px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     flex-shrink: 0;
+}
+
+.official-svg-icon {
+    width: 28px;
+    height: 28px;
+    fill: #ffffff;
 }
 
 .item-details {
