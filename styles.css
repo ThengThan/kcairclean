@@ -183,6 +183,7 @@ body.mobile-page-body {
 .item-tg { background: linear-gradient(135deg, #0088cc, #00a2ed); }
 .item-yt { background: linear-gradient(135deg, #ff0000, #cc0000); }
 .item-fb { background: linear-gradient(135deg, #1877f2, #0b51c5); }
+.item-tt { background: linear-gradient(135deg, #010101, #3a3a3a); }
 
 .clean-footer {
     text-align: center;
